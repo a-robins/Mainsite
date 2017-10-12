@@ -10,13 +10,13 @@
   justify-items: flex-start;
   height: 100vh;
   width: 100%;
-  background: rgb(20, 60, 138);
+  background: rgb(2, 37, 80);
 }
 
 .hero {
   padding: 1.45vw;
   font-family: 'Futura';
-  color: #fff;
+  color: rgb(255, 255, 235);
 }
 
 .hero h1 {
